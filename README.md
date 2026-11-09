@@ -76,7 +76,7 @@
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/n8n-followup-checker.git
+   git clone https://github.com/Davis-jan/n8n-followup-checker.git
    cd n8n-followup-checker
    ```
 
